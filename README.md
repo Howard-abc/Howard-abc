@@ -11,7 +11,7 @@
 I’m a hands-on learner who thrives at the intersection of **data, security, and automation**.  
 My background in IT, cybersecurity, and data engineering fuels my goal to develop smarter, data-driven approaches to detection and response.  
 
-When I’m not building security automations or analyzing data, I’m usually in labs—breaking down logs, writing Python scripts, and exploring how data pipelines and detection frameworks connect.  
+I’m currently focused on learning the fundamentals, spending time in labs, practicing Python scripting, and exploring how data and security systems work together.
 
 ---
 
