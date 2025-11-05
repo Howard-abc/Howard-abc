@@ -70,7 +70,7 @@ I’m currently focused on learning the fundamentals, spending time in labs, pra
 - Build a **data-driven detection automation framework**  
 - Earn recognition as a **Detection Engineer specializing in cloud security**  
 - Contribute to open-source detection projects (Sigma / Atomic Red Team)  
-- Mentor others transitioning from IT into cybersecurity  
+
 
 ---
 
