@@ -1,87 +1,81 @@
-# 👋 Hey, I'm Caleb Howard  
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Caleb+Howard;Aspiring+Detection+Engineer;Building+Secure+Data+Pipelines;Linux+%2B+Python+%2B+Security" alt="Typing SVG" />
+</div>
 
-🎓 **B.S. Business Administration – Data Analytics (Southern Illinois University Edwardsville, Expected Fall 2027)**  
-🔐 **Aspiring Detection Engineer / Data Security Engineer**  
-🌍 Passionate about bridging **data analytics, cybersecurity, and automation** to build intelligent detection systems that protect digital ecosystems.  
+<div align="center">
+  <h3>🎯 Bridging the gap between Data Engineering & Threat Detection</h3>
+</div>
 
----
-
-## 🧭 About Me  
-
-I’m a hands-on learner who thrives at the intersection of **data, security, and automation**.  
-My background in IT, cybersecurity, and data engineering fuels my goal to develop smarter, data-driven approaches to detection and response.  
-
-I’m currently focused on learning the fundamentals, spending time in labs, practicing Python scripting, and exploring how data and security systems work together.
-
----
-
-## ⚙️ Core Skills  
-
-| **Category** | **Skills & Tools** |
-|---------------|--------------------|
-| 🧠 **Programming** | Python (Pandas, Matplotlib, Requests, OS), Bash, SQL |
-| 🧩 **Data & Analytics** | Power BI, Pandas, PostgreSQL, Data Visualization, Data Governance |
-| 🔐 **Security & Detection** | SIEM (Splunk, ELK, Sentinel), MITRE ATT&CK, Threat Hunting, YARA, Sigma |
-| ☁️ **Cloud & DevOps** | AWS, Terraform, CloudTrail, IAM, S3, EC2, GuardDuty |
-| 🧰 **Automation** | SOAR Playbooks (Python + APIs), Bash Scripting, GitHub Actions |
-| 💼 **Frameworks & Governance** | NIST CSF, SOC 2, ISO 27001, Risk & Compliance Principles |
+<p align="center">
+  <a href="mailto:calebhoward027@gmail.com">
+    <img src="https://img.shields.io/badge/Email-calebhoward027%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/caleb-howard">
+    <img src="https://img.shields.io/badge/LinkedIn-Caleb%20Howard-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🧪 Current Focus (2025 → 2027)  
+### 👨‍💻 **About Me**
+I am a **Data Analytics** student and aspiring **Detection Engineer** focused on building intelligent security architectures. Unlike traditional analysts who just "watch" dashboards, I am learning to **build the pipelines** that feed them.
 
-- 🎯 Completing **Security+, Network+, Data+, CySA+, CCSP, and AWS Cloud certifications**  
-- 💻 Building detection automation projects using **Python + Cloud logs**  
-- ☁️ Gaining advanced hands-on experience through **LetsDefend** and **TryHackMe SOC labs**  
-- 🧠 Developing **Unified Detection Pipeline** as my senior capstone  
-- 📊 Integrating **data analytics** with **cybersecurity** to visualize threat patterns  
+My mission is to master the full lifecycle of security data: **Ingestion (Linux/Network)** $\to$ **Transformation (Python/ETL)** $\to$ **Detection (SIEM/Splunk)**.
 
 ---
 
-## 🧩 Featured Projects  
+### 🛠 **The Tech Stack**
 
-| **Project** | **Description** | **Tech Stack** |
-|--------------|----------------|----------------|
-| 🔎 [CloudTrail Log Parser](#) | Detects unauthorized IAM role assumptions and suspicious API calls in AWS CloudTrail logs. | Python, Pandas, AWS, Matplotlib |
-| 🧠 [SIEM Detection Rules Library](#) | Custom SPL, KQL, and Sigma rules for brute-force, privilege escalation, and beaconing detection. | Splunk, Sentinel, YAML |
-| ☁️ [Secure Data Pipeline](#) | Builds a data ingestion and encryption pipeline using AWS, Terraform, and Python. | AWS, Terraform, Python |
-| 📊 [Data+ Dashboard Project](#) | Visualizes incident response metrics and anomaly patterns using Power BI and SQL queries. | SQL, Power BI |
-
-*(Links can be updated once your repos go live)*  
+| **Domain** | **Technologies & Tools** |
+| :--- | :--- |
+| 🐧 **OS & Scripting** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| 🕸 **Networking** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-black?style=flat&logo=nmap&logoColor=white) ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Protocol-gray?style=flat) |
+| 🛡 **Security Ops** | ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white) ![Elastic](https://img.shields.io/badge/Elastic_Stack-005571?style=flat&logo=elasticsearch&logoColor=white) ![MITRE](https://img.shields.io/badge/MITRE_ATT&CK-E6232D?style=flat) |
+| ☁ **Cloud & Data** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) |
 
 ---
 
-## 🧰 Certifications & Learning Journey  
-
-**In Progress / Planned (2025–2027)**  
-- ✅ CompTIA Security+ (Jan 2026)  
-- ⏳ CompTIA Network+ (Spring 2026)  
-- ⏳ CompTIA Data+ (Summer 2026)  
-- ⏳ Linux Essentials / Python Automation (Summer 2026)  
-- ⏳ CompTIA CySA+ / AWS Solutions Architect (Fall 2026)  
-- ⏳ Professional Cloud Data Engineer (Fall 2027)  
-- ⏳ (ISC)² CCSP or AWS Security Specialty (Spring 2028)  
-- ⚙️ Labs: LetsDefend, TryHackMe SOC, TCM Security (P-SOC, PMAT, PNPT)
+### 📊 **GitHub Stats**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Howard-abc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Howard-abc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph"  />
+</div>
 
 ---
 
-## 🌱 Personal Goals  
+### 🗺 **Strategic Roadmap (2026–2028)**
+*A structured path from Analyst to Engineer.*
 
-- Build a **data-driven detection automation framework**  
-- Earn recognition as a **Detection Engineer specializing in cloud security**  
-- Contribute to open-source detection projects (Sigma / Atomic Red Team)  
+#### **Phase 1: The Foundation (2026)**
+- [ ] **Network+** (Feb '26) $\to$ *Deep understanding of protocols.*
+- [ ] **Security+** (Apr '26) $\to$ *Core defensive theory.*
+- [ ] **Data+** (Jun '26) $\to$ *Analytics & Visualization.*
+- [ ] **LPIC-1 Linux Admin** (Sep '26) $\to$ *Command Line Mastery.*
 
-
----
-
-## 📬 Connect  
-
-📫 **Email:** [calebhoward027@gmail.com](mailto:calebhoward027@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/caleb-howard](#)  
-🧠 **GitHub:** [github.com/Howard-abc](https://github.com/Howard-abc)  
-🎓 **University:** Southern Illinois University Edwardsville  
+#### **Phase 2: The Specialization (2027)**
+- [ ] **CySA+** (Dec '26) $\to$ *Threat Hunting & Log Analysis.*
+- [ ] **CCNA** (Spring '27) $\to$ *Advanced Routing & Packet Analysis.*
+- [ ] **AWS Solutions Architect** (Fall '27) $\to$ *Cloud Infrastructure.*
 
 ---
 
-> “Automation, analytics, and awareness — the three pillars of modern detection engineering.”  
-> — *Caleb Howard*
+### 🧪 **Featured Projects**
+
+#### 🔎 **[Python Port Scanner (Coming Soon)](#)**
+> *Building my own Nmap.*
+> A raw socket programming script written in Python (on Linux) that identifies open ports and services on a target IP.
+> - **Tech:** Python `socket`, `argparse`, TCP/IP Handshakes.
+
+#### 🛡 **[Home Lab SIEM (Blue Team)](#)**
+> *Detection as Code.*
+> An Ubuntu-based ELK Stack (Elasticsearch, Logstash, Kibana) ingesting live firewall logs to detect SSH brute force attacks.
+> - **Tech:** Ubuntu Server, Elastic Security, Bash, Syslog.
+
+---
+
+<div align="center">
+  <sub>Let's connect and secure the future.</sub><br>
+  <a href="https://linkedin.com/in/caleb-howard">
+    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-blue?style=social&logo=linkedin" />
+  </a>
+</div>
